@@ -1,2 +1,5 @@
 # sumlearn-os
-Public repository for sumlearn webapp.
+
+### For any issues/bugs found in sumlearn.com, please report them here.
+
+Thank you.
